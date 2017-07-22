@@ -27,4 +27,4 @@
 9. Wire the sine/triangle pin of the function generator to pin four of the voltmeter, the IN pin on the frequency counter, and both the L and R inputs on the amplifier Board
 
 ## Block Diagram
-[![Block Diagram](ManualfI.png)]
+![Block Diagram](ManualfI.png)
