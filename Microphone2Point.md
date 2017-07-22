@@ -1,4 +1,4 @@
-#Simple Two-Point Microphone Characterization
+# Simple Two-Point Microphone Characterization
 
 ## Tools
 - Microphone Calibrator
