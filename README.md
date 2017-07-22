@@ -1,6 +1,7 @@
 # Acoustic Calibration
 
 Welcome! If you're interested in making certain that your recording gear is calibrated to get the proper measurement readings, you're in the right place!
+Here's the [slides](https://docs.google.com/presentation/d/19yliWdHu04rei3yIECs2MKjbw6_5GvQtKgkSQtdtAkY/edit?usp=sharing) for the ACBA 2017 presentation on acoustic calibration, and here's the [presentation itself](https://www.youtube.com/watch?v=-MG_91h39xs).
 
 ## Definitions
 - Calibration: the acts of characterizing a system, adjusting it, and then re-characterizing it until it meets a Specification.
@@ -9,7 +10,7 @@ Welcome! If you're interested in making certain that your recording gear is cali
 - Specification: a set of parameters under which a device is supposed to work, such as its intrinsic uncertainties and linearity
 
 ## Easy Protocols
-- [Microphone Two-Point Characterization]
+- [Microphone Two-Point Characterization](Microphone2Point.md)
 - [Microphone Transfer Calibration]
 - [Hydrophone Two-Point Characterization]
 - [Hydrophone Transfer Calibration]
@@ -22,11 +23,10 @@ Welcome! If you're interested in making certain that your recording gear is cali
     - [Reed R8050](https://www.amazon.com/dp/B00VA4GDG0/ref=twister_B00WR4AWUK?_encoding=UTF8&psc=1) $335 (with NIST-traceable calibration certificate)
     - [BAFX 3370](https://www.amazon.com/BAFX-Products-Decibel-Reader-Battery/dp/B00ECCZWWI/ref=sr_1_3?ie=UTF8&qid=1500608321&sr=8-3&keywords=sound+level+meter) $20 (without calibration certificate)
 - Measurement Microphones
-    - 
+    -
 
 ## DIY Hardware
-- 
+-
 
 ## Existing Standards Documents
 - [ASA Standards Documents](https://github.com/petmar0/AcousticCalibration/tree/master/ASA%20Standards)
-
