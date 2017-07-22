@@ -23,7 +23,11 @@ Here's the [slides](https://docs.google.com/presentation/d/19yliWdHu04rei3yIECs2
     - [Reed R8050](https://www.amazon.com/dp/B00VA4GDG0/ref=twister_B00WR4AWUK?_encoding=UTF8&psc=1) $335 (with NIST-traceable calibration certificate)
     - [BAFX 3370](https://www.amazon.com/BAFX-Products-Decibel-Reader-Battery/dp/B00ECCZWWI/ref=sr_1_3?ie=UTF8&qid=1500608321&sr=8-3&keywords=sound+level+meter) $20 (without calibration certificate)
 - Measurement Microphones
-    -
+    - [Dayton Audio iMM-6](https://www.amazon.com/Dayton-Audio-iMM-6-Calibrated-Measurement/dp/B00ADR2B84/ref=sr_1_6?ie=UTF8&qid=1500693333&sr=8-6&keywords=measurement+microphone) $24
+    - [miniDSP UMIK-1](https://www.amazon.com/miniDSP-UMIK-1-Measurement-Calibrated-Microphone/dp/B00N4Q25R8/ref=sr_1_1?ie=UTF8&qid=1500693428&sr=8-1&keywords=usb+measurement+microphone) $100
+- Environmental Loggers
+    - [Kestrel Drop D3](https://www.amazon.com/Kestrel-Wireless-Temperature-Humidity-Pressure/dp/B00JBFNNUO/ref=sr_1_fkmr1_1?ie=UTF8&qid=1500693110&sr=8-1-fkmr1&keywords=temperature+relative+humidity+pressure+logger) $130
+    - [Extech SD700](https://www.amazon.com/Extech-SD700-Pressure-Humidity-Temperature/dp/B005LIW57M/ref=sr_1_2?ie=UTF8&qid=1500693110&sr=8-2&keywords=temperature+relative+humidity+pressure+logger) $250
 
 ## DIY Hardware
 -
