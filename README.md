@@ -30,7 +30,7 @@ Here's the [slides](https://docs.google.com/presentation/d/19yliWdHu04rei3yIECs2
     - [Extech SD700](https://www.amazon.com/Extech-SD700-Pressure-Humidity-Temperature/dp/B005LIW57M/ref=sr_1_2?ie=UTF8&qid=1500693110&sr=8-2&keywords=temperature+relative+humidity+pressure+logger) $250
 
 ## DIY Hardware
--
+- [Manual Frequency and Intensity Calibrator](hardware/ManualfI.md)
 
 ## Existing Standards Documents
 - [ASA Standards Documents](https://github.com/petmar0/AcousticCalibration/tree/master/ASA%20Standards)
