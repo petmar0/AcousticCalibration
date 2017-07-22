@@ -25,3 +25,6 @@
 7. Assemble the function generator as per the [instructions](https://www.dropbox.com/s/x9azf694mjedmv5/XR2206-DIY-Kit-Manual.pdf?dl=1)
 8. Wire the ground to pin one and three of the voltmeter, the ground pin on the function generator, the ground pin on the frequency counter board, and the ground pin on the amplifier input
 9. Wire the sine/triangle pin of the function generator to pin four of the voltmeter, the IN pin on the frequency counter, and both the L and R inputs on the amplifier Board
+
+## Block Diagram
+[![Block Diagram](ManualfI.png)]
