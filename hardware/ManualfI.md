@@ -7,6 +7,7 @@
 - [Yeeco AC Voltmeter](https://www.amazon.com/gp/product/B00PZBEJ7Y/ref=od_aui_detailpages00?ie=UTF8&psc=1)
 - [Smakn 12-to-5 V DC-DC](https://www.amazon.com/gp/product/B00CXKBJI2/ref=od_aui_detailpages00?ie=UTF8&psc=1)
 - [KKMoon XR2206 Function Generator Board](https://www.amazon.com/gp/product/B01HM70CMY/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+- [12 V Power Supply](https://www.amazon.com/gp/product/B019Q3U72M/ref=od_aui_detailpages00?ie=UTF8&psc=1)
 - 18-26 AWG Wire (in two or more colors)
 - Solder
 
