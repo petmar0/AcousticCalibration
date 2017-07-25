@@ -16,6 +16,7 @@
 - Wire Cutter
 
 ## Procedure
+[Video of Assembly Procedure](https://www.youtube.com/watch?v=CmCu5KOqpDA)
 1. Attach two wires to the BMR12 speaker
 2. Attach one of the wires to both of the + outputs on the PAM8403 Board
 3. Attach the other wire to both of the - outputs on the PAM8403 Board
