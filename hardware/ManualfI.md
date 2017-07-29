@@ -32,6 +32,7 @@
 9. Wire the sine/triangle pin of the function generator to pin four of the voltmeter, the IN pin on the frequency counter, and both the L and R inputs on the Amplifier Board
 10. Attach the +12 V wire from the power supply to the power pins of the voltmeter, function generator, and DC-DC
 11. Attach the ground wire from the power supply to the ground pins of the voltmeter, function generator, and DC-DC
+
 ###Optional Voltmeter Upgrade
 - [Bridge Rectifier](https://www.amazon.com/gp/product/B0002KRDPI/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
 - [DC Voltmeter](https://www.amazon.com/gp/product/B00CJR9QB6/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1)
