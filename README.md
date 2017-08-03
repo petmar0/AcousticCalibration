@@ -1,6 +1,6 @@
 # [Acoustic Calibration](https://petmar0.github.io/AcousticCalibration/)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.838673.svg)](https://doi.org/10.5281/zenodo.838673)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.838744.svg)](https://doi.org/10.5281/zenodo.838744)
 
 
 Welcome! If you're interested in making certain that your recording gear is calibrated to get the proper measurement readings, you're in the right place!
